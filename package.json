@@ -1,14 +1,14 @@
 {
-  "name": "qtum-opcodes",
+  "name": "yody-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The YODY opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/yodynetwork/yody-opcodes-js.git"
   },
   "keywords": [
     "qtum",
@@ -17,7 +17,7 @@
   "author": "Qtum Weiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/yodynetwork/yody-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/yodynetwork/yody-opcodes-js#readme"
 }
